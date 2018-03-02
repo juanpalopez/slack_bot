@@ -1,0 +1,8 @@
+Flask==0.12
+Flask-Bootstrap==3.3.7.1
+Flask-Cors==3.0.2
+Flask-OAuth==0.12
+Flask-OAuthlib==0.9.3
+Flask-RESTful==0.3.5
+Flask-SQLAlchemy==2.2
+gunicorn==19.7.1
